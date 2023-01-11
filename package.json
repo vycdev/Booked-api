@@ -72,7 +72,7 @@
         "bcrypt": "^4.0.1",
         "dotenv": "^8.2.0",
         "kill-port": "^1.6.1",
-        "knex": "^0.20.4",
+        "knex": "^2.4.0",
         "koa": "^2.11.0",
         "koa-bodyparser": "^4.2.1",
         "koa-json": "^2.0.2",
